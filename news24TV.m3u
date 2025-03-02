@@ -92,3 +92,10 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVK.kh" group-title="Campuchia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg?20240109073750",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1plus1-int" group-title="Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1%2B1_International.svg/512px-1%2B1_International.svg.png?20221022090219",1+1 International
+http://141.95.55.143/CH797/index.m3u8
+#EXTINF:-1 tvg-id="1plus1-int" group-title="Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/512px-1%2B1_Marafon_%282022%29.svg.png?20221203190419",1+1 Marafon
+https://cdntv.online/high/vcbkpd63uh/866.m3u8
+#EXTINF:-1 tvg-id="1plus1-int" group-title="Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1%2B1_Ukraina_%282024%29.svg/512px-1%2B1_Ukraina_%282024%29.svg.png?20240824160943",1+1 Ukraine
+http://rhsbjv7k.tvclub.xyz/iptv/75APUSFK39BBSMCCD3QXNNK9/987/index.m3u8
