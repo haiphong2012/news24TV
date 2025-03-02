@@ -11,6 +11,8 @@ http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 tvg-id="skynews" group-title="Vương quốc Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/178px-Sky_News_logo.svg.png?20231116033324",Sky News International
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" group-title="Vương quốc Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006",ITV1
+http://p1.cvtv.xyz/itv1?token=live
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png?20211202190839",NHK World-Japan
 http://p1.cvtv.xyz:81/nhkw?token=live
@@ -24,6 +26,8 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/141px-FRANCE_24_logo.svg.png?20130809143752",France 24 English
 http://p1.cvtv.xyz:81/f24?token=live
+#EXTINF:-1 tvg-id="france24eng" group-title="Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/141px-FRANCE_24_logo.svg.png?20130809143752",France 24 French
+http://49.0.64.96:8007/France24
 
 #EXTINF:-1 tvg-id="24Horas.es" group-title="Tây Ban Nha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png?20190404212910",Canal 24 Horas
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
