@@ -38,6 +38,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" group-title="Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/799px-Tagesschau24-2012.svg.png?20250217181823",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="RTL.de" group-title="Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png?20220414104334",RTL
+http://178.219.128.68:64888/RTL
 
 #EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/512px-Habert%C3%BCrk_TV_logo.svg.png?20230409224719",Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
