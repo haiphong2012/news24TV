@@ -13,6 +13,11 @@ http://p1.cvtv.xyz:81/bbcn?token=live
 http://p1.cvtv.xyz:81/bbc1?token=live
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" group-title="Vương quốc Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png?20241109160112",BBC Two
 http://p1.cvtv.xyz:81/bbc2?token=live
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three" group-title="Vương quốc Anh" tvg-logo="https://raw.githubusercontent.com/Vuhaiphong2012/SportIPTV-vn/refs/heads/main/CBBC%20%26%20BBC%20Three.png",CBBC/BBC Three
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium358/index.m3u8
 #EXTINF:-1 tvg-id="skynews" group-title="Vương quốc Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/178px-Sky_News_logo.svg.png?20231116033324",Sky News International
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" group-title="Vương quốc Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006",ITV1
@@ -108,6 +113,11 @@ http://p1.cvtv.xyz:81/euro?token=live
 
 #EXTINF:-1 tvg-id="TVPInfo.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP_Info_%282024%29.svg/512px-TVP_Info_%282024%29.svg.png?20240930135546",TVP Info
 http://178.219.128.68:64889/TVPINFOHD
+#EXTINF:-1 tvg-id="tvp-polonia" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/512px-TVP_Polonia_Logo_2020.svg.png?20220319132537",TVP Polonia
+http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094/hlsx/pl.m3u8
+#EXTINF:-1 tvg-id="TVPABC.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_TVP_ABC.svg/158px-Logo_TVP_ABC.svg.png?20210607113943",TVP ABC
+http://178.219.128.68:64888/TVPABC
+
 
 #EXTINF:-1 tvg-id="HLDFDTV.kr" group-title="Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/512px-Seoul_Broadcasting_System_logo.svg.png?20210710070739",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
