@@ -85,8 +85,6 @@ http://flussonic.salomtv.uz/Perviy_Kanal/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
 #EXTINF:-1 tvg-id="pervy-pl4" group-title="Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",OPT1 +4
 http://185.101.107.131:2082/05551460890/60890/81715
-#EXTINF:-1 tvg-id="pervy-pl4" group-title="Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",OPT1 +4
-http://185.101.107.131:2082/05551460890/60890/81715
 #EXTINF:-1 tvg-id="rossia1" group-title="Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/196px-Russia-1.svg.png?20220227173448",Russia 1
 http://185.23.80.28:8080/Rossiya1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rossia1-pl4" group-title="Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/196px-Russia-1.svg.png?20220227173448",Russia 1 +4
