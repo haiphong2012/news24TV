@@ -128,7 +128,7 @@ http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="Ả Rập Xê-út" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/BBC_News_Arabic_logo.png?20240606104124",BBC News Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-id="ORF2.at" group-title="Áo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png?20181201145918",ORF
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Áo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png?20181201145918",ORF 2
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
 
 #EXTINF:-1 tvg-id="ORF2.at" group-title="Ấn Độ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/95px-WION_news_Logo.svg.png?20220717194016",WION
