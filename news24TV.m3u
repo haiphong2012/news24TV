@@ -25,6 +25,12 @@ http://p1.cvtv.xyz/itv1?token=live
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png?20211202190839",NHK World-Japan
 http://p1.cvtv.xyz:81/nhkw?token=live
+#EXTINF:-1 tvg-id="nhkg_tokyo" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/500px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png?20230104025748",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-id="nhke_tokyo" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/500px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png?20230104030950",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-id="nhk_bs" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/512px-NHK_BS_2023_logo.svg.png",NHK BS1
+http://vthanh.utako.moe/NHK_BS/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="Hoa Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/800px-CNN_Logo_%282014%29.svg.png?20250116205155",CNN International
 http://p1.cvtv.xyz:81/cnn?token=live
@@ -105,6 +111,8 @@ http://178.212.71.253:8002/play/1/index.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="Nga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Mir_24.svg/revision/latest/scale-to-width-down/200?cb=20210124172442",Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" group-title="Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NTV_MIR.svg/220px-NTV_MIR.svg.png",NTV Mir
+http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" group-title="EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/799px-Euronews_2022.svg.png",Euronews
 http://p1.cvtv.xyz:81/euro?token=live
