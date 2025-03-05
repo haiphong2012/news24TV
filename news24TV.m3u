@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" group-title="Tây Ban Nha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png?20211001152258",TVE Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+#EXTINF:-1 tvg-id="La1.es" group-title="Tây Ban Nha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png?20211104191627",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -130,6 +132,8 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 
 #EXTINF:-1 tvg-id="ORF2.at" group-title="Áo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/512px-ORF2_logo_n.svg.png?20181201145918",ORF 2
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 tvg-id="ORF1HD.at" group-title="Áo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/800px-ORF_1_2019.svg.png?20190426224931",ORF 1 HD
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
 
 #EXTINF:-1 tvg-id="ORF2.at" group-title="Ấn Độ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/95px-WION_news_Logo.svg.png?20220717194016",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
@@ -147,3 +151,6 @@ https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
 
 #EXTINF:-1 tvg-id="PPTV" group-title="Myanmar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png?20231128110301",MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" group-title="San Marino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/San_Marino_RTV_logo_2021.png?20210405000613",RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
