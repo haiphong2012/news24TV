@@ -202,3 +202,6 @@ http://grandprix2023.asuscomm.com:8892/bysid/83
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Việt Nam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png",VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv1?token=live
+
+#EXTINF:-1 tvg-id="belarus1" group-title="Belarus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/512px-Belarus_1_logo.svg.png?20221111165228",Belarus-1
+http://194.158.222.36:6101
