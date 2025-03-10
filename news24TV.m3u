@@ -39,6 +39,10 @@ http://vthanh.utako.moe/Fuji_TV/index.m3u8
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 tvg-id="tv_tokyo" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/141px-TV_Tokyo_%28Japanese%29_2023.svg.png?20231112161526",TV Tokyo
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="tv_asahi" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/512px-TV_Asahi_Logo.svg.png?20181219133642",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-id="tbs" group-title="Nhật Bản" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/67px-Tokyo_Broadcasting_System_logo_2020.svg.png?20210711121541",TBS
+Http://vthanh.utako.moe/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="Hoa Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/800px-CNN_Logo_%282014%29.svg.png?20250116205155",CNN International
 http://p1.cvtv.xyz:81/cnn?token=live
@@ -89,6 +93,8 @@ http://178.219.128.68:64888/RTL
 http://p1.cvtv.xyz:81/ard?token=live
 #EXTINF:-1 tvg-id="zdf" group-title="Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",ZDF
 http://p1.cvtv.xyz:81/zdf?token=live
+#EXTINF:-1 tvg-id="RTLZwei.de" group-title="Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png?20191007164638",RTL Zwei
+http://178.219.128.68:64888/RTL2
 
 #EXTINF:-1 tvg-id="HaberturkTV.tr" group-title="Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Habert%C3%BCrk_TV_logo.svg/512px-Habert%C3%BCrk_TV_logo.svg.png?20230409224719",Haber Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
