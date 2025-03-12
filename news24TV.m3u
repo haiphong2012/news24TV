@@ -147,7 +147,18 @@ http://178.219.128.68:64889/TVPINFOHD
 http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/10094/hlsx/pl.m3u8
 #EXTINF:-1 tvg-id="TVPABC.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_TVP_ABC.svg/158px-Logo_TVP_ABC.svg.png?20210607113943",TVP ABC
 http://178.219.128.68:64888/TVPABC
-
+#EXTINF:-1 tvg-id="TVP2.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telewizja_Polska_-_TVP2_logo_2003.svg/416px-Telewizja_Polska_-_TVP2_logo_2003.svg.png?20091120010213",TVP2
+http://109.233.89.166/TVP2_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Telewizja_Polska_-_TVP3_logo_2016.svg/512px-Telewizja_Polska_-_TVP3_logo_2016.svg.png?20230327165051",TVP3
+https://irylek.ct8.pl/stream/tvp3warszawahd
+#EXTINF:-1 tvg-id="TVPHistoria.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVP_Historia_logo.svg/389px-TVP_Historia_logo.svg.png",TVP Historia
+http://109.233.89.170/TVP_Historia/index.m3u8
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVP_Rozrywka_%282013%29.svg/512px-TVP_Rozrywka_%282013%29.svg.png?20230321221230",TVP Rozrywka
+http://109.233.89.166/TVP_Rozrywka/index.m3u8
+#EXTINF:-1 tvg-id="TVPHD.pl" group-title="Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/409px-TVP_HD_logo.svg.png",TVP HD
+http://109.233.89.166/TVP_HD/index.m3u8
+#EXTINF:-1 tvg-id="MiniMiniPlus.pl" group-title="Ba Lan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/MiniMini%2B_%282020-%29.png/revision/latest?cb=20241221085002",MiniMini+
+http://178.219.128.68:64889/MINIHD
 
 #EXTINF:-1 tvg-id="HLDFDTV.kr" group-title="Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/512px-Seoul_Broadcasting_System_logo.svg.png?20210710070739",SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
